@@ -1,0 +1,16 @@
+{
+    "name": "darkg/proyecto-basico",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RMalanco",
+            "email": "rmalanco@rmalanco.com"
+        }
+    ],
+    "require": {}
+}
